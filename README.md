@@ -11,6 +11,7 @@ This project is a powerful web scraping tool designed to interact with an online
 - **Machine Learning Ready**: Outputs data for machine learning algorithms to reverse-engineer the underlying algorithm of the online tool.
 - **Modular Design**: The project is modular, with core functionality divided across multiple Python scripts for clarity and maintainability.
 - **Memory Efficient**: Memory concious programming techniques have been used to minimise memory consumption throughout the script preventing memory related issues, or recursive stack overflows, allowing the script to run     continuosly for massive gene sequence sets.
+- **Memory Usage Data**: using MatPlotLib a graph plotting the memory usage of the script over run time is plotted at the end of script/sigint.
 
 ## Installation
 
