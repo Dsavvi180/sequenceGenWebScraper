@@ -1,7 +1,7 @@
 # Gene Sequence Web Scraper
 
 ## Overview
-This project is a powerful web scraping tool designed to interact with an online biology tool that processes gene sequences and generates related primer sets. The tool allows continuous interaction with the site, passing through gene sequences, setting preferences, and downloading the relevant primer sets for each sequence. The scraper was successfully used to process **50,000 gene sequences** and retrieve their corresponding primers. The primary goal of this project is to reverse-engineer the site's algorithm using machine learning.
+This project is a powerful web scraping tool designed to interact with an online biology tool that processes gene sequences and generates corresponding primer sets. The tool allows continuous interaction with the site, passing through gene sequences, setting preferences, and downloading the relevant primer sets for each sequence. The scraper was successfully used to process **50,000 gene sequences** and retrieve their corresponding primers. The primary goal of this project is to reverse-engineer the site's algorithm using machine learning.
 
 ## Features
 - **Scraping Biology Tool**: Automatically submits gene sequences to the biology tool and retrieves primers.
