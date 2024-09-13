@@ -21,14 +21,14 @@ git clone https://github.com/Dsavvi180/sequenceGenWebScraper.git
 cd <project-folder>
 ```
 
-###Step 2: Install Dependencies
+### Step 2: Install Dependencies
 ```bash 
 pip install virtualenv
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
-###Step 3: Run
+### Step 3: Run
 ```bash 
 python3 main.py
 ```
