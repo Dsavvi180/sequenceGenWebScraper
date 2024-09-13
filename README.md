@@ -6,7 +6,7 @@ This project is a powerful web scraping tool designed to interact with an online
 ## Features
 - **Scraping Biology Tool**: Automatically submits gene sequences to the biology tool and retrieves primers.
 - **Sequence Processing**: Manages large batches of sequences (50,000+) efficiently.
-- **Error Handling**: Efficient error handling correclty handles errors with grace allowing the script to keep running without manual intervention.
+- **Error Handling**: Efficient error handling correctly handles errors with grace allowing the script to keep running without manual intervention.
 - **Preferences Automation**: Interacts with the preferences page to customize the parameters for each query.
 - **Machine Learning Ready**: Outputs data for machine learning algorithms to reverse-engineer the underlying algorithm of the online tool.
 - **Modular Design**: The project is modular, with core functionality divided across multiple Python scripts for clarity and maintainability.
