@@ -16,15 +16,19 @@ This project is a powerful web scraping tool designed to interact with an online
 ## Installation
 
 ### Step 1: Clone the repository
-```bash
-git clone <repository-url>
+```bash 
+git clone https://github.com/Dsavvi180/sequenceGenWebScraper.git
 cd <project-folder>
+```
 
 ###Step 2: Install Dependencies
+```bash 
 pip install virtualenv
 virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
-
+```
 ###Step 3: Run
+```bash 
 python3 main.py
+```
